@@ -1,4 +1,4 @@
-package thinkreed.testexo;
+package com.example.audioonlyplayer;
 
 import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.ExoPlayerFactory;

@@ -1,4 +1,4 @@
-package thinkreed.testexo;
+package com.example.audioonlyplayer;
 
 /**
  * Created by thinkreed on 2017/10/1.

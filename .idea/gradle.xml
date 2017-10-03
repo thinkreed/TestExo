@@ -9,6 +9,23 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/audioonlyplayer" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/ffmpeg" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/flac" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/gvr" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/ima" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/mediasession" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/okhttp" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/opus" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/rtmp" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/extensions/vp9" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/all" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/core" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/dash" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/hls" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/smoothstreaming" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/library/ui" />
+            <option value="$PROJECT_DIR$/audioonlyplayer/ExoPlayer/testutils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

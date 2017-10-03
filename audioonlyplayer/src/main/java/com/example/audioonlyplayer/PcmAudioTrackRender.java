@@ -1,4 +1,4 @@
-package thinkreed.testexo;
+package com.example.audioonlyplayer;
 
 import java.nio.ByteBuffer;
 

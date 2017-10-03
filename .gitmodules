@@ -1,0 +1,3 @@
+[submodule "audioonlyplayer/ExoPlayer"]
+	path = audioonlyplayer/ExoPlayer
+	url = https://github.com/google/ExoPlayer.git
